@@ -72,8 +72,8 @@ This script is intended for **authorized security research, training, and CTF ch
 ## 🤝 Contributing
 If you have improvements, feel free to submit a pull request!
 
-📢 **Follow me on LinkedIn:** [Your LinkedIn Profile]  
-💻 **GitHub:** [Your GitHub Profile]  
+📢 **Follow me on LinkedIn:** : https://linkedin.com/in/astersec 
+💻 **GitHub:** : https://github.com/4stersec  
 
 ---
 
